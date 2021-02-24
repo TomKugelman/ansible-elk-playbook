@@ -1,3 +1,5 @@
+# Note: This repository was forked from DanielBerman's repository for learning purposes. However, I may make modifications and updates as needed. This repo will serve as a reference for using ansible roles/playooks, as well as ELK stack installation
+
 # Ansible ELK Playbook
  
 This playbook is for setting up version 5.x of the ELK Stack on a remote server. 
